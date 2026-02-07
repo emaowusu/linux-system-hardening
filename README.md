@@ -377,7 +377,9 @@ Restart SSH:
 sudo systemctl restart ssh
 ```
 
-🎯 Conclusively, system hardening is **an ongoing process**. Practicing on a VirtualBox VM allows you to learn safely without risking production systems.
+🎯 Bottom Line
+ 
+System hardening is **an ongoing process**. Practicing on a VirtualBox VM allows you to learn safely without risking production systems.
 
 Regularly:
 
